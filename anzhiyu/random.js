@@ -1,1 +1,1 @@
-var posts=["2023/10/25/01-activity/","2023/10/27/02-Vscode/","2023/11/30/04_git/","2023/11/27/03_blog/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/10/27/02-Vscode/","2023/10/25/01-activity/","2024/03/23/05_django/","2023/11/30/04_git/","2023/11/27/03_blog/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
